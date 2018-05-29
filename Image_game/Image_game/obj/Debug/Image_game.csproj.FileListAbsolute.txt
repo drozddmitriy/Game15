@@ -1,0 +1,9 @@
+D:\step\c\DZ_richtext_box_etc\Image_game\Image_game\bin\Debug\Image_game.exe.config
+D:\step\c\DZ_richtext_box_etc\Image_game\Image_game\obj\Debug\Image_game.Properties.Resources.resources
+D:\step\c\DZ_richtext_box_etc\Image_game\Image_game\obj\Debug\Image_game.csproj.GenerateResource.Cache
+D:\step\c\DZ_richtext_box_etc\Image_game\Image_game\bin\Debug\Image_game.exe
+D:\step\c\DZ_richtext_box_etc\Image_game\Image_game\bin\Debug\Image_game.pdb
+D:\step\c\DZ_richtext_box_etc\Image_game\Image_game\obj\Debug\Image_game.Form1.resources
+D:\step\c\DZ_richtext_box_etc\Image_game\Image_game\obj\Debug\Image_game.exe
+D:\step\c\DZ_richtext_box_etc\Image_game\Image_game\obj\Debug\Image_game.pdb
+D:\step\c\DZ_richtext_box_etc\Image_game\Image_game\obj\Debug\Image_game.csprojResolveAssemblyReference.cache
